@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="ZnZCecUTBCLff715t5XZ">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KK6CyTyyhjXqFLAxflyP-5" value="&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;YAFdJjTk5UU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 15.7355px; --gJPlXQ: 2.35; letter-spacing: 0.058em; text-transform: none; line-height: 36px;&quot;&gt;&lt;span class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;color: rgb(0, 0, 0); font-weight: 700; font-style: normal; font-kerning: none;&quot;&gt;──► Setup Hardware ──► Integrate ADXL &amp;amp; ESP&amp;nbsp; &amp;nbsp;──► Implement API&amp;nbsp; &amp;nbsp; ──► Store Readings&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;YAFdJjTk5UU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 15.7355px; --gJPlXQ: 2.35; letter-spacing: 0.058em; text-transform: none; line-height: 36px;&quot;&gt;&lt;span class=&quot;OYPEnA white-space-prewrap font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;color: rgb(0, 0, 0); font-weight: 700; font-style: normal; font-kerning: none;&quot;&gt;    &lt;/span&gt;&lt;span class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;color: rgb(0, 0, 0); font-weight: 700; font-style: normal; font-kerning: none;&quot;&gt;──► Flutter App Fetches Data ──► Provide Ratings &amp;amp; Charts ──► Accident Detected?&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;YAFdJjTk5UU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 15.7355px; --gJPlXQ: 2.35; letter-spacing: 0.058em; text-transform: none; line-height: 36px;&quot;&gt;&lt;span class=&quot;OYPEnA white-space-prewrap font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;color: rgb(0, 0, 0); font-weight: 700; font-style: normal; font-kerning: none;&quot;&gt;  &lt;/span&gt;&lt;span class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;color: rgb(0, 0, 0); font-weight: 700; font-style: normal; font-kerning: none;&quot;&gt;├── Yes ──► Notify Emergency Services&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;YAFdJjTk5UU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 15.7355px; --gJPlXQ: 2.35; letter-spacing: 0.058em; text-transform: none; line-height: 36px;&quot;&gt;&lt;span class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;color: rgb(0, 0, 0); font-weight: 700; font-style: normal; font-kerning: none;&quot;&gt;└── No&lt;/span&gt;&lt;span class=&quot;OYPEnA white-space-prewrap font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;color: rgb(0, 0, 0); font-weight: 700; font-style: normal; font-kerning: none;&quot;&gt;                                                              &lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="330" width="685" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KK6CyTyyhjXqFLAxflyP-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="180" y="350" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KK6CyTyyhjXqFLAxflyP-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="180" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KK6CyTyyhjXqFLAxflyP-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="310" y="350" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KK6CyTyyhjXqFLAxflyP-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="494" y="351" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KK6CyTyyhjXqFLAxflyP-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="632" y="352" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KK6CyTyyhjXqFLAxflyP-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="180" y="396" width="150" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
